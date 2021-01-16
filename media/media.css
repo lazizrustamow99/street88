@@ -298,7 +298,8 @@
 
   }
   .nav__list_link {
-    padding: 0px;
+    padding: 5px;
+    font-size: 20px;
     
   }
   .header__title {
